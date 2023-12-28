@@ -1,39 +1,43 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Rock Paper Scissors
 
-Welcome,
+Here is an engaging and straightforward Rock, Paper, Scissors game with interactive features.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This website serves as a practical demonstration of JavaScript in real-world scenarios, making it an excellent resource for individuals new to JavaScript. The interactive elements, coupled with a straightforward website design
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+## Features
 
-## Codeanywhere Reminders
+- Interactive rock paper scissors game.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
-`python3 -m http.server`
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Validator Testing
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+No errors found when testing on W3C CSS Validator <http://jigsaw.w3.org/css-validator/validator$link>
 
-`http_server`
+No errors found whent testing on W3C HTML Validator  <https://validator.w3.org/nu/>
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+No errors were found when passing through the official  <https://jshint.com/>
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Deployment
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+1. Open github.com, go to profile, 'your repositories' select ur project
 
-To log into the Heroku toolbelt CLI:
+2. Go to settings at the top, then press pages on the left side
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+3. Select source to be 'Deploy from a branch'
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+4. Select Branch to be 'main' and file to be '/docs'
 
----
+5. Press save
 
-Happy coding!
+Live Link - <https://imdanyul.github.io/yamaha-motorcycles/>
+
+## Credits
+
+
+### Content
+
+
+### Media
+
+Images for the website sourced from 
