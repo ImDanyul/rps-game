@@ -14,7 +14,7 @@ This website serves as a practical demonstration of JavaScript in real-world sce
 - Clear and clean game area to display each players choice.
 (https://github.com/ImDanyul/rps-game/blob/main/Media/Game%20Area.PNG)
 
-- Clear results area that tracks ur win/loss/draws throughout ur time on the game
+- Clear score area that tracks ur win/loss/draws throughout ur time on the game
 (https://github.com/ImDanyul/rps-game/blob/main/Media/win-loss-draw%20area.PNG)
 
 ## Validator Testing
@@ -37,14 +37,15 @@ No errors were found when passing through the official  <https://jshint.com/>
 
 5. Press save
 
-Live Link - <https://imdanyul.github.io/yamaha-motorcycles/>
+Live Link - 
 
 ## Credits
 
 
 ### Content
 
+inspiration taken from <https://www.youtube.com/watch?v=fIBOydve2f8>
 
 ### Media
 
-Images for the website sourced from 
+Images for the website sourced from <https://unsplash.com/s/photos/rock-paper-scissors>
