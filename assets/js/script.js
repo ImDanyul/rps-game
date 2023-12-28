@@ -42,3 +42,11 @@ function updateImages(playerChoice, computerChoice) {
     document.getElementById('playerImg').src = 'assets/images/${playerChoice}.jpg';
     document.getElementById('computerImg').src = 'assets/images/${computerChoice}.jpg';
 }
+
+// Update Score
+
+function updateScore(result) {
+    document.getElementById('wins').textContent = wins;
+    document.getElementById('losses').textContent = losses;
+    document.getElementById('draws').textContent = draws;
+}
