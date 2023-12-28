@@ -35,3 +35,10 @@ function determineWinner(player, computer) {
         return 'Compute Wins!';
     }
 }
+
+// Update Images
+
+function updateImages(playerChoice, computerChoice) {
+    document.getElementById('playerImg').src = 'assets/images/${playerChoice}.jpg';
+    document.getElementById('computerImg').src = 'assets/images/${computerChoice}.jpg';
+}
