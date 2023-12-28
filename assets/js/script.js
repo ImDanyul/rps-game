@@ -10,6 +10,8 @@ function playGame(playerChoice) {
     const choices = ['rock', 'paper', 'scissors'];
     // Computer Choice
     const computerChoice = choices[Math.floor(Math.random() * choices.length)];
+    // Update Images
+    updateImages(playerChoice, computerChoice);
     // Determine Winner + Score
     const result = determineWinner(playerChoice, computerChoice);
     updateScore(result);
