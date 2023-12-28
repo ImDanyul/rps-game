@@ -12,7 +12,26 @@ function playGame(playerChoice) {
     const computerChoice = choices[Math.floor(Math.random() * choices.length)];
     // Determine Winner + Score
     const result = determineWinner(playerChoice, computerChoice);
-    updateScore(result)
+    updateScore(result);
 }
 
 // Determine Winner
+
+function determineWinner(player, computer) {
+    if (player === computer) {
+        draws++;
+        return 'It\'s a draw';
+    }
+
+    if (
+        (player === 'rock' && computer === 'scissors') ||
+        (player === 'paper' && computer === 'rock') ||
+        (player === 'scissors' && computer === 'paper')
+    ) {
+        wins++;
+        return 'You Win!';
+    } else {
+        losses++;
+        return 'Compute Wins!';
+    }
+}
