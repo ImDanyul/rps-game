@@ -15,7 +15,7 @@ This website serves as a practical demonstration of JavaScript in real-world sce
 (https://github.com/ImDanyul/rps-game/blob/main/Media/Game%20Area.PNG)
 
 - Clear score area that tracks ur win/loss/draws throughout ur time on the game
-(https://github.com/ImDanyul/rps-game/blob/main/Media/win-loss-draw%20area.PNG)
+(<https://imgur.com/cWemPA4>)
 
 ## Validator Testing
 
