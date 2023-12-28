@@ -6,9 +6,16 @@ This website serves as a practical demonstration of JavaScript in real-world sce
 
 ## Features
 
-- Interactive rock paper scissors game.
+- Interactive Rock Paper Scissors game.
+- Interactive Buttons to press ur desired option
 
+(https://github.com/ImDanyul/rps-game/blob/main/Media/Buttons.PNG)
 
+- Clear and clean game area to display each players choice.
+(https://github.com/ImDanyul/rps-game/blob/main/Media/Game%20Area.PNG)
+
+- Clear results area that tracks ur win/loss/draws throughout ur time on the game
+(https://github.com/ImDanyul/rps-game/blob/main/Media/win-loss-draw%20area.PNG)
 
 ## Validator Testing
 
