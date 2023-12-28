@@ -49,4 +49,5 @@ function updateScore(result) {
     document.getElementById('wins').textContent = wins;
     document.getElementById('losses').textContent = losses;
     document.getElementById('draws').textContent = draws;
+    document.querySelector('.winner').textContent = result;
 }
