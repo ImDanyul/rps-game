@@ -9,7 +9,7 @@ This website serves as a practical demonstration of JavaScript in real-world sce
 - Interactive Rock Paper Scissors game.
 - Interactive Buttons to press ur desired option
 
-(https://github.com/ImDanyul/rps-game/blob/main/Media/Buttons.PNG)
+![Buttons](https://github.com/ImDanyul/rps-game/blob/main/Media/Buttons.PNG)
 
 - Clear and clean game area to display each players choice.
 ![Game Area](https://github.com/ImDanyul/rps-game/blob/main/Media/Game%20Area.PNG)
