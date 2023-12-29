@@ -37,7 +37,7 @@ No errors were found when passing through the official  <https://jshint.com/>
 
 5. Press save
 
-Live Link - 
+Live Link - <https://imdanyul.github.io/rps-game/>
 
 ## Credits
 
