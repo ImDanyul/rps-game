@@ -3,7 +3,7 @@
 Here is an engaging and straightforward Rock, Paper, Scissors game with interactive features.
 
 This website serves as a practical demonstration of JavaScript in real-world scenarios, making it an excellent resource for individuals new to JavaScript. The interactive elements, coupled with a straightforward website design
-
+- Responsive Design to different types of screen sizes.  ![Responsive Website](https://github.com/ImDanyul/rps-game/blob/main/Media/V6NOWjJ%20-%20Imgur.png?raw=true)
 ## Features
 
 - Interactive Rock Paper Scissors game.
@@ -12,10 +12,12 @@ This website serves as a practical demonstration of JavaScript in real-world sce
 (https://github.com/ImDanyul/rps-game/blob/main/Media/Buttons.PNG)
 
 - Clear and clean game area to display each players choice.
-(https://github.com/ImDanyul/rps-game/blob/main/Media/Game%20Area.PNG)
+![Game Area](https://github.com/ImDanyul/rps-game/blob/main/Media/Game%20Area.PNG)
 
 - Clear score area that tracks ur win/loss/draws throughout ur time on the game
-(<https://imgur.com/cWemPA4>)
+![Score Area](<https://imgur.com/cWemPA4>)
+
+
 
 ## Validator Testing
 
