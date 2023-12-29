@@ -11,10 +11,11 @@ This website serves as a practical demonstration of JavaScript in real-world sce
 
 ![Buttons](https://github.com/ImDanyul/rps-game/blob/main/Media/Buttons.PNG)
 
-- Clear and clean game area to display each players choice.
+- Clear and clean game area to display each player's choice.
+
 ![Game Area](https://github.com/ImDanyul/rps-game/blob/main/Media/Game%20Area.PNG)
 
-- Clear score area that tracks ur win/loss/draws throughout ur time on the game
+- Clear score area that tracks ur wins/loss/draws throughout our time on the game
 ![Score Area](https://github.com/ImDanyul/rps-game/blob/main/Media/Buttons.PNG)
 
 
@@ -23,7 +24,7 @@ This website serves as a practical demonstration of JavaScript in real-world sce
 
 No errors found when testing on W3C CSS Validator <http://jigsaw.w3.org/css-validator/validator$link>
 
-No errors found whent testing on W3C HTML Validator  <https://validator.w3.org/nu/>
+No errors found when testing on W3C HTML Validator  <https://validator.w3.org/nu/>
 
 No errors were found when passing through the official  <https://jshint.com/>
 
@@ -33,7 +34,7 @@ No errors were found when passing through the official  <https://jshint.com/>
 
 2. Go to settings at the top, then press pages on the left side
 
-3. Select source to be 'Deploy from a branch'
+3. Select a source to be 'Deploy from a branch'
 
 4. Select Branch to be 'main' and file to be '/docs'
 
